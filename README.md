@@ -22,8 +22,9 @@ A curated list of awesome human-robot interaction libraries and resources
 
 ## [Articles](#articles)
 
-- [Mathematical Models of Adaptation In Human-Robot Collaboration](http://stefanosnikolaidis.net/papers/snikol_review_2017.pdf)
 - [Artificial cognition for social human–robot interaction: An implementation](https://reader.elsevier.com/reader/sd/pii/S0004370216300790?token=7CA655FA2B80B72E1C2D34772DFFBCC5BFD88696BE3DFE98BB80C953FD0DD96BF79D89F6E1D2DAF2014B7618FC05A6B7)
+- [Mathematical Models of Adaptation In Human-Robot Collaboration](http://stefanosnikolaidis.net/papers/snikol_review_2017.pdf)
+- [Robot Planning with Mathematical Models of Human State and Action](https://arxiv.org/pdf/1705.04226.pdf)
 
 ## [Simulators](#simulators)
 
