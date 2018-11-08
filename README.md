@@ -31,9 +31,20 @@ A curated list of awesome human-robot interaction libraries and resources
 
 - [Batch Active Preference-Based Learning of Reward Functions](https://arxiv.org/pdf/1810.04303.pdf)
 
+### Intent Inference
+
+- [Interactive Visual Grounding of Referring Expressions for Human-Robot Interaction](https://arxiv.org/pdf/1806.03831.pdf)
+- [Inverse Reward Design](https://arxiv.org/pdf/1711.02827.pdf)
+- [Rational inference of beliefs and desires from emotional expressions](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cogs.12548)
+
 ### Motion Planning
 
 - [Robot Planning with Mathematical Models of Human State and Action](https://arxiv.org/pdf/1705.04226.pdf)
+
+### Optinal Teaching
+
+- [Algorithmic and human teaching of sequential decision tasks](https://pdfs.semanticscholar.org/551a/0949a520ae40e47d5979dbfb35aa94b4a6fc.pdf)
+- [How Do Humans Teach: On Curriculum Learning and Teaching Dimensi](http://pages.cs.wisc.edu/~jerryzhu/pub/teaching.pdf)
 
 ## [Simulators](#simulators)
 
