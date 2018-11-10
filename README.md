@@ -15,7 +15,7 @@ A curated list of awesome human-robot interaction libraries and resources
 
 - [Algorithmic HRI](https://people.eecs.berkeley.edu/~anca/AHRI.html) by [Anca Dragan](https://people.eecs.berkeley.edu/~anca/) at UC Berkeley
 - [Computational Human-Robot Interaction](http://www.stefanosnikolaidis.net/comphri.html) by [Stefanos Nikolaidis](http://stefanosnikolaidis.net/) at USC
-- [](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/index.htm) by [Cynthia Breazeal](http://cynthiabreazeal.media.mit.edu/) at MIT
+- [Cooperative Machines](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/index.htm) by [Cynthia Breazeal](http://cynthiabreazeal.media.mit.edu/) at MIT
 - [Human-Robot Interaction](https://www.cc.gatech.edu/~athomaz/classes/CS8803-HRI/Home.html) by [Andrea L. Thomaz](https://www.cc.gatech.edu/~athomaz/) at GaTech
 - [Human-Robot Interaction](https://sites.google.com/site/cse599k1/home) by [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/) at UW
 - [Safe and Interactive Robotics](https://dorsa.fyi/cs333/) by [Dorsa Sadigh](https://dorsa.fyi/) at Stanford
