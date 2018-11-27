@@ -6,7 +6,7 @@ A curated list of awesome human-robot interaction libraries and resources
 * [Libraries](#libraries)
 * [Books](#books)
 * [Articles](#articles)
-* [Blog](#blogs)
+* [Blogs](#blogs)
 * [Simulators](#simulators)
 * [Implementations](#implementations)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -57,7 +57,7 @@ A curated list of awesome human-robot interaction libraries and resources
 - [Algorithmic and human teaching of sequential decision tasks](https://pdfs.semanticscholar.org/551a/0949a520ae40e47d5979dbfb35aa94b4a6fc.pdf)
 - [How Do Humans Teach: On Curriculum Learning and Teaching Dimensi](http://pages.cs.wisc.edu/~jerryzhu/pub/teaching.pdf)
 
-## [Blog](#blogs)
+## [Blogs](#blogs)
 
 - [Stanford ILIAD blog](http://iliad.stanford.edu/blog/)
 
