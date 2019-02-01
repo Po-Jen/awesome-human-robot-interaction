@@ -7,6 +7,7 @@ A curated list of awesome human-robot interaction libraries and resources
 * [Books](#books)
 * [Articles](#articles)
 * [Blogs](#blogs)
+* [Mailing lists](#mailing-lists)
 * [Simulators](#simulators)
 * [Implementations](#implementations)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -60,6 +61,10 @@ A curated list of awesome human-robot interaction libraries and resources
 ## [Blogs](#blogs)
 
 - [Stanford ILIAD blog](http://iliad.stanford.edu/blog/)
+
+## [Mailing lists](#mailing-lists)
+
+- [CMU HRI-reading-group mailing list](https://lists.andrew.cmu.edu/mailman/listinfo/hri-reading-group)
 
 ## [Simulators](#simulators)
 
