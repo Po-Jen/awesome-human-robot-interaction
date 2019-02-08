@@ -43,6 +43,10 @@ A curated list of awesome human-robot interaction libraries and resources
 
 - [Batch Active Preference-Based Learning of Reward Functions](https://arxiv.org/pdf/1810.04303.pdf)
 
+### Human-Robot Collaboration
+
+- [Progress and Prospects of the Human-Robot Collaboration](https://hal.archives-ouvertes.fr/hal-01643655/file/HRC_REVIEW.pdf)
+
 ### Intent Inference
 
 - [Interactive Visual Grounding of Referring Expressions for Human-Robot Interaction](https://arxiv.org/pdf/1806.03831.pdf)
