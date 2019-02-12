@@ -30,14 +30,17 @@ A curated list of awesome human-robot interaction libraries and resources
 
 ## [Books](#books)
 
-- [Computational human-robot interaction](http://guyhoffman.com/publications/ThomazHoffmanCakmak16.pdf)
+- [Human-Robot Interaction in Social Robotics](https://www.amazon.com/Human-Robot-Interaction-Social-Robotics-Takayuki/dp/1466506970)
+
 
 ## [Articles](#articles)
 
 ### Summary/Survey
 
+- [Computational human-robot interaction](http://guyhoffman.com/publications/ThomazHoffmanCakmak16.pdf)
 - [Artificial cognition for social human–robot interaction: An implementation](https://reader.elsevier.com/reader/sd/pii/S0004370216300790?token=7CA655FA2B80B72E1C2D34772DFFBCC5BFD88696BE3DFE98BB80C953FD0DD96BF79D89F6E1D2DAF2014B7618FC05A6B7)
 - [Mathematical Models of Adaptation In Human-Robot Collaboration](http://stefanosnikolaidis.net/papers/snikol_review_2017.pdf)
+- [Human–robot interaction review and challenges on task planning and programming](https://www.tandfonline.com/doi/abs/10.1080/0951192X.2015.1130251)
 
 ### Active Learning
 
